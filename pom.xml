@@ -24,7 +24,7 @@
         <maven-gpg.version>1.6</maven-gpg.version>
         <maven-nexus-staging.version>1.6.8</maven-nexus-staging.version>
         <maven-checkstyle.version>3.0.0</maven-checkstyle.version>
-        <maven-spotbugs.version>3.1.6</maven-spotbugs.version>
+        <maven-spotbugs.version>3.1.7</maven-spotbugs.version>
         <maven-build-tools.version>1.0.0-SNAPSHOT</maven-build-tools.version>
     </properties>
 
