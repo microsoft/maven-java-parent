@@ -38,7 +38,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <metrics.version>4.0.3</metrics.version>
         <netty.version>4.1.30.Final</netty.version>
-        <netty-tcnative.version>2.0.17.Final</netty-tcnative.version>
+        <netty-tcnative.version>2.0.19.Final</netty-tcnative.version>
         <okhttp.version>3.11.0</okhttp.version>
         <rxnetty.version>0.5.1</rxnetty.version>
         <rxjava.version>1.3.8</rxjava.version>
