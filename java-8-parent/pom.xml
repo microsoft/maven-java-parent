@@ -36,7 +36,7 @@
         <jcommander.version>1.72</jcommander.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <metrics.version>4.0.3</metrics.version>
+        <metrics.version>4.0.4</metrics.version>
         <netty.version>4.1.30.Final</netty.version>
         <netty-tcnative.version>2.0.17.Final</netty-tcnative.version>
         <okhttp.version>3.11.0</okhttp.version>
