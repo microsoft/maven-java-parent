@@ -55,7 +55,7 @@
         <hamcrest-all.version>1.3</hamcrest-all.version>
         <junit.version>4.12</junit.version>
         <jupiter.version>5.3.1</jupiter.version>
-        <mockito-core.version>2.23.0</mockito-core.version>
+        <mockito-core.version>2.24.0</mockito-core.version>
         <mockito-all.version>1.10.19</mockito-all.version>  <!-- TODO remove (Cosmos DB depends on this) -->
         <reflections.version>0.9.11</reflections.version>
     </properties>
